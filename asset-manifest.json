@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jenkins/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/jenkins/static/js/main.b7a2eb81.chunk.js",
-    "main.js.map": "/jenkins/static/js/main.b7a2eb81.chunk.js.map",
+    "main.js": "/jenkins/static/js/main.04325ecf.chunk.js",
+    "main.js.map": "/jenkins/static/js/main.04325ecf.chunk.js.map",
     "runtime-main.js": "/jenkins/static/js/runtime-main.ae2080fa.js",
     "runtime-main.js.map": "/jenkins/static/js/runtime-main.ae2080fa.js.map",
-    "static/js/2.30d45170.chunk.js": "/jenkins/static/js/2.30d45170.chunk.js",
-    "static/js/2.30d45170.chunk.js.map": "/jenkins/static/js/2.30d45170.chunk.js.map",
+    "static/js/2.7dcba1f9.chunk.js": "/jenkins/static/js/2.7dcba1f9.chunk.js",
+    "static/js/2.7dcba1f9.chunk.js.map": "/jenkins/static/js/2.7dcba1f9.chunk.js.map",
     "static/js/3.90e5250a.chunk.js": "/jenkins/static/js/3.90e5250a.chunk.js",
     "static/js/3.90e5250a.chunk.js.map": "/jenkins/static/js/3.90e5250a.chunk.js.map",
     "index.html": "/jenkins/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/jenkins/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.30d45170.chunk.js.LICENSE.txt": "/jenkins/static/js/2.30d45170.chunk.js.LICENSE.txt",
+    "static/js/2.7dcba1f9.chunk.js.LICENSE.txt": "/jenkins/static/js/2.7dcba1f9.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/jenkins/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae2080fa.js",
-    "static/js/2.30d45170.chunk.js",
+    "static/js/2.7dcba1f9.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.b7a2eb81.chunk.js"
+    "static/js/main.04325ecf.chunk.js"
   ]
 }
