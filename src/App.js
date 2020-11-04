@@ -7,7 +7,7 @@ function App() {
 <p>i am react</p>
 <p>git hub</p>
 <p>Jenkin</p>
-<p>New</p>
+<p>completed</p>
 <p>succeed</p>
     </div>
   );
