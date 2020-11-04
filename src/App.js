@@ -4,14 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-<p>i am good</p>
+<p>i am react</p>
 <p>git hub</p>
 <p>Jenkin</p>
 <p>New</p>
-<p>i am good</p>
-<p>git hub</p>
-<p>Jenkin</p>
-<p>New</p>
+<p>succeed</p>
     </div>
   );
 }
